@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "walksy.optimizer.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "ClientPlayerEntityMixin",
+    "EndCrystalItemMixin",
+    "ItemStackMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
